@@ -12,5 +12,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Rodrigo Zarate <code@zarate.com.co> (https://zarate.com.co/)"
+	"author": "Rodrigo Zarate <code@zarate.com.co> (https://zarate.com.co/)",
+	"keywords": [ "API", "nodejs", "learning" ]
 }
