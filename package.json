@@ -1,6 +1,5 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Rodrigo Zarate <code@zarate.com.co> (https://zarate.com.co/)",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -12,4 +11,5 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
+	"author": "Rodrigo Zarate <code@zarate.com.co> (https://zarate.com.co/)"
 }
