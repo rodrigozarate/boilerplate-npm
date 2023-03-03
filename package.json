@@ -10,6 +10,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
 	"author": "Rodrigo Zarate <code@zarate.com.co> (https://zarate.com.co/)"
 }
